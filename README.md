@@ -59,16 +59,12 @@ Flutter • React Native • Kotlin • React • Next.js • TypeScript • Nod
 - Materials App — App for storing building materials and tracking their cost across different projects to help estimate and manage project budgets.  
   Testing / Play Store: https://play.google.com/apps/testing/site.asaphmwangi.materials
 
-(If you provide repository links, tech stack per project, screenshots, or short metrics, I’ll replace these lines with linked, detailed project entries.)
-
 ---
 
 ## 🚀 Current work
 - Currently freelancing: building mobile apps and websites for clients, from prototypes to Play Store/web launch.
 
 ---
-
-
 
 ## 📫 Contact
 - GitHub: https://github.com/AsaphMwangi  
