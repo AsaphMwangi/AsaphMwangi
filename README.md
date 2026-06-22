@@ -1,6 +1,6 @@
-# Hi — I'm Asaph Mwangi 👋
+# Hi, I'm Asaph Mwangi 👋
 
-Freelance Mobile & Web Developer building delightful, reliable apps and websites. I ship production mobile apps (Flutter, React Native, Kotlin) and performant web experiences (React, Next.js, TypeScript), and I help clients take products from idea to Play Store / web launch.
+Mobile & Web Developer building delightful, reliable apps and websites. I ship production mobile apps (Flutter, React Native, Kotlin) and performant web experiences (React, Next.js, TypeScript), and I help clients take products from idea to Play Store / web launch.
 
 ---
 
@@ -68,12 +68,7 @@ Flutter • React Native • Kotlin • React • Next.js • TypeScript • Nod
 
 ---
 
-## 🤝 Available for
-- Freelance projects & contract work — open to new clients  
-- Collaborations on apps and web products  
-- Mentoring and technical guidance (available on request)
 
----
 
 ## 📫 Contact
 - GitHub: https://github.com/AsaphMwangi  
